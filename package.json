@@ -1,5 +1,6 @@
 {
   "name": "resolve-url-loader",
+  "version": "5.0.0",
   "description": "monorepo of all things resolve-url-loader",
   "private": true,
   "author": "bholloway",
